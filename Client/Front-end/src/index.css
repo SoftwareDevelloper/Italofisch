@@ -1,0 +1,29 @@
+@import "tailwindcss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+:root {
+  line-height: 1.5;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./assets/background2.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  --seaColor: #003566;
+  --accentColor: #0077b6;
+  --lightColor: #90e0ef;
+  --darkColor: #001f3f;
+  --dangerColor: #ff4136;
+  --warningColor: #ff851b;
+  --successColor: #2ecc40;
+  --infoColor: #39cccc;
+  --fontFamily: 'Poppins', sans-serif;
+  --borderRadius: 8px;
+  --boxShadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --transitionDuration: 0.3s;
+  --transitionTimingFunction: ease-in-out;
+
+}

@@ -1,0 +1,41 @@
+italien par defaut , en fr , ar
+user awel myd5l site  , bch tjih f wost cadre mt3 choose language  italien , en fr , ar
+
+ w site f background bch ykoun transparent
+
+b3d m user y5tr langue , bch yt3ada ll site b langue hki 
+
+
+
+palette color 
+
+Bleu foncé: #003566
+
+Bleu moyen: #0077b6
+
+Bleu clair: #90e0ef
+
+Blanc: #ffffff
+
+Gris clair: #6c757d .
+
+///////////////////////////////
+
+pour product section 
+
+Bleu dégradé mer: #0077b6 → #0096c7.
+
+Blanc ناصع: للبطاقات والنصوص الرئيسية.
+
+Gris clair: للتفاصيل (reviews, description). 
+//
+Font modern 
+Titres بالـ bold bleu foncé.
+
+Prix بالأزرق.
+
+Hover على البطاقة → صورة تكبر شوية (zoom-in).
+
+زر “Add to cart” → لون أزرق مع animation hover (يتغير لgradient).
+
+
